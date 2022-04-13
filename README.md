@@ -1,13 +1,13 @@
- _Olá, sou o @IceEric
+  ### Olá, sou o @IceEric
  
- _Sou iniciante em linguagem de programação
+ ###Sou iniciante em linguagem de programação
  
- _Utilizo o Python e o JavaScript
+ ###Utilizo o Python e o JavaScript
 
 ----------------------------------------------------
 
- _Hello, I'm @IceEric
+ ###Hello, I'm @IceEric
 
- _I'm new to programming language
+ ###I'm new to programming language
 
- _I use Python and JavaScript
+ ###I use Python and JavaScript
